@@ -1,8 +1,8 @@
-/*Faça um programa onde entramos com dois números, e ele imprime se o primeiro número é maior que o segundo. 
-Ex: 2 e 5. Imprime: false. */
+/* Crie um programa que mostra o tamanho do Array. 
+Ex: const array = [0, 1] imprime: 2. const array = ["banana", "Maça", "laranja"] imprime: 3 */
 
-const n1 = 15
-const n2 = 3
-const result = n1 > n2
+const array1 = ["André", "Bruna", "Bruno"]
+console.log(array1.length)
 
-console.log(result)
+const array2 = ["André", "Bruna", "Bruno", "Fernando", "Raquel", "Singlair"]
+console.log(array2.length)
