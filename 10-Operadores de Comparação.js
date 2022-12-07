@@ -2,7 +2,7 @@
 
 // const firstNumber = "20"
 // const seccondNumber = 20
-// const tirdNumber = 30
+// const thirdNumber = 30
 // const fourNumber = 30
 
 // //  → Igual: ele compara o valor, mas não o tipo de dado;
@@ -24,22 +24,22 @@
 
 // //  → Maior:
 
-// console.log(seccondNumber > tirdNumber)
-// console.log(tirdNumber > seccondNumber)
+// console.log(seccondNumber > thirdNumber)
+// console.log(thirdNumber > seccondNumber)
 
 // //  → Maior ou Igual:
 
-// console.log(seccondNumber >= tirdNumber)
-// console.log(tirdNumber >= seccondNumber)
-// console.log(tirdNumber >= fourNumber)
+// console.log(seccondNumber >= thirdNumber)
+// console.log(thirdNumber >= seccondNumber)
+// console.log(thirdNumber >= fourNumber)
 
 // //  → Menor:
 
-// console.log(seccondNumber < tirdNumber)
-// console.log(tirdNumber < seccondNumber)
+// console.log(seccondNumber < thirdNumber)
+// console.log(thirdNumber < seccondNumber)
 
 // //  → Menor ou Igual:
 
-// console.log(seccondNumber <= tirdNumber)
-// console.log(tirdNumber <= seccondNumber)
-// console.log(tirdNumber <= fourNumber)
+// console.log(seccondNumber <= thirdNumber)
+// console.log(thirdNumber <= seccondNumber)
+// console.log(thirdNumber <= fourNumber)
